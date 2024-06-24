@@ -16,7 +16,7 @@ El objetivo principal de este trabajo es evaluar la aplicación de estas técnic
 - `models/`: Contiene los modelos de redes neuronales entrenados.
 - `codes/`: Contiene los programas que simulan el comportamiento de los códigos convencionales utilizados.
 - `scripts/`: Scripts de Python para la ejecución de experimentos y evaluación de resultados.
-- 
+
 ## Estructura de los Experimentos
 
 Los experimentos se detallan en la sección de metodología de la tesis y se implementaron utilizando diversas arquitecturas de redes neuronales, incluyendo:
@@ -40,6 +40,7 @@ Para preguntas, comentarios o contribuciones sientete bienvenido de contactar a 
 Juan Sebastian Alvarez Villavicencio:
 - juans.alvarez@ucuenca.edu
 - sebasalvavi@gmail.com
+  
 Edgar Mateo Bacuilima Crespo
 - edgar.bacuilima@ucuenca.edu.ec
 - mateobaculima7669@gmail.com
