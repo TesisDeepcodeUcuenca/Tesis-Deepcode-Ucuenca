@@ -31,7 +31,7 @@ Los experimentos se detallan en la sección de metodología de la tesis y se imp
 - Pytorch
 - NumPy
 - Pandas
-- Jupyter
+- Jupyter o Google Colab
 
 ## Contacto
 
